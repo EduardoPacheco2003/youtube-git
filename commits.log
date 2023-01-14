@@ -1,0 +1,98 @@
+commit 07dde476bee977c48dab4faa5c7c4df904aa888b
+Author: EduardoPacheco2003 <edupachecocruz2003@gmail.com>
+Date:   Thu Jan 12 22:55:42 2023 -0600
+
+    Agregando dos parrafos
+
+commit b4b43bd184ee4902bc9350799d5a4f8c480915cc
+Merge: bfbc17b 073aa1f
+Author: EduardoPacheco2003 <edupachecocruz2003@gmail.com>
+Date:   Thu Jan 12 22:32:17 2023 -0600
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit bfbc17ba5b047ef4e418e7ba05a4826f97f2c8c3
+Author: EduardoPacheco2003 <edupachecocruz2003@gmail.com>
+Date:   Thu Jan 12 22:00:35 2023 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 073aa1f8ed074a7e77aa5aaebc53f72114e61613
+Author: EduardoPacheco2003 <edupachecocruz2003@gmail.com>
+Date:   Thu Jan 12 22:00:35 2023 -0600
+
+    Agregando las estaciones del año
+
+commit 8ca949b0da92112a149c43a90c739b7a07ec0e92
+Merge: 861b9f9 83f1716
+Author: EduardoPacheco2003 <edupachecocruz2003@gmail.com>
+Date:   Wed Jan 11 13:06:35 2023 -0600
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 83f17160d9dea282c7750f60d3fbb87c9df3c144
+Author: EduardoPacheco2003 <edupachecocruz2003@gmail.com>
+Date:   Wed Jan 11 13:00:35 2023 -0600
+
+    Agregando index.js al index.html
+
+commit 861b9f9eaddb31012c1e273dd5990391b9c30132
+Author: EduardoPacheco2003 <edupachecocruz2003@gmail.com>
+Date:   Wed Jan 11 12:58:26 2023 -0600
+
+    Agregando style.css al index.hmtl
+
+commit 22ce21a49bb8c8df906543f06965c6deabed59aa
+Merge: d4eca0b 8fa553b
+Author: EduardoPacheco2003 <edupachecocruz2003@gmail.com>
+Date:   Wed Jan 11 12:48:53 2023 -0600
+
+    Merge branch 'js'
+
+commit 8fa553bcacf7ecbd59a9ed3c36eb0ece7623f7ed
+Author: EduardoPacheco2003 <edupachecocruz2003@gmail.com>
+Date:   Tue Jan 10 12:41:57 2023 -0600
+
+    Creando index.js
+
+commit d4eca0bbe9ccf28bddc69e7f8a883c19531c87e4
+Author: EduardoPacheco2003 <edupachecocruz2003@gmail.com>
+Date:   Tue Jan 10 12:34:54 2023 -0600
+
+    Creando Style.css
+
+commit e4d261ad4251334e01707b5840cece4e21adf2f4
+Author: EduardoPacheco2003 <edupachecocruz2003@gmail.com>
+Date:   Tue Jan 10 12:30:10 2023 -0600
+
+    Creando index.html
+
+commit 8012cdfd5146c2179dfda7b51c6718ebf40950b6
+Author: EduardoPacheco2003 <edupachecocruz2003@gmail.com>
+Date:   Mon Jan 9 23:46:24 2023 -0600
+
+    Ignorando archivos .exe
+
+commit 2e29b9f103314603f3def9347eed1eedc35e2633
+Author: EduardoPacheco2003 <100945554+EduardoPacheco2003@users.noreply.github.com>
+Date:   Mon Jan 9 22:32:16 2023 -0600
+
+    Creando licencia del repositorio
+
+commit 0a00c5f035aaaa7c8e5936ddc60d96b267551905
+Author: EduardoPacheco2003 <edupachecocruz2003@gmail.com>
+Date:   Sun Jan 8 23:28:32 2023 -0600
+
+    Agregando más contenido al README
+
+commit abfdeb16de291b56ec740fc6964fcac5bd487c34
+Author: EduardoPacheco2003 <edupachecocruz2003@gmail.com>
+Date:   Sun Jan 8 23:18:10 2023 -0600
+
+    Agregando contenido inicial al README
+
+commit bd18670613145d5116059dbe3e3c4a77ea8aad05
+Author: EduardoPacheco2003 <edupachecocruz2003@gmail.com>
+Date:   Sun Jan 8 23:13:48 2023 -0600
+
+    Primer commit 🐒
